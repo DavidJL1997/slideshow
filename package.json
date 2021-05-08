@@ -6,6 +6,9 @@
   },
   "devDependencies": {
     "babel-eslint": "^10.1.0",
-    "eslint-loader": "^4.0.2"
+    "eslint-loader": "^4.0.2",
+    "sass": "^1.32.12",
+    "sass-loader": "^11.0.1",
+    "webpack": "^5.36.2"
   }
 }

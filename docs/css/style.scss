@@ -1,0 +1,24 @@
+$body-color: red;
+
+body {
+  color: $body-color;
+}
+html, body {
+  height: 100%;
+
+  #root {
+    height: 100%;
+  }
+
+  .div-with-button {
+    background-color: black;
+
+    button {
+      background-color: #e4c681;
+
+      &:hover {
+        background-color: #ffe082;
+      }
+    }
+  }
+}
